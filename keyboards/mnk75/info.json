@@ -1,8 +1,8 @@
 {
-    "keyboard_name": "MNK75",
+    "keyboard_name": "TGR-TOMO(Hung Nguyen)",
     "manufacturer": "Yiancar-Designs",
     "url": "https://yiancar-designs.com",
-    "maintainer": "Yiancar-Designs",
+    "maintainer": "Hung Nguyen",
     "usb": {
         "vid": "0x8968",
         "pid": "0x4D37",
